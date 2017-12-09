@@ -1,0 +1,34 @@
+﻿@using Project.Web.Models
+@model DetailViewModel
+@{
+    ViewBag.Title = "DetailView";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 text-center text-capitalize">
+            @*<h3>Product detail for @Model.Mfr @Model.Model</h3>*@
+            <h3>Product detail for "Mfr" "Model"</h3>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <img class="detail-image text-center" src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <h3>Manufacturer</h3>
+            <h4>Model #</h4>
+            <h5>Short Description</h5>
+            <h3 class="text-danger">Price</h3>
+        </div>
+    </div>
+    <div class="clearfix product-long-desc col-xs-12">
+        <p class="lead text-justify">Bacon ipsum dolor amet sausage boudin pig, hamburger ribeye 
+        leberkas shankle t-bone.  Brisket pork belly rump meatloaf swine picanha kevin 
+        pastrami alcatra.  Short loin biltong turducken alcatra picanha brisket.  
+        Pig jerky fatback pork ribeye shoulder shank jowl turkey.  
+        Pork chop ham sausage jowl beef ribs swine burgdoggen tail.</p>
+    </div>
+</div>

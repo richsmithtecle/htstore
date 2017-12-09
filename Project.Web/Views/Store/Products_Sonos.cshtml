@@ -1,0 +1,33 @@
+﻿@using Project.Web.Models
+@model List<Products_TVModel>
+@{
+    ViewBag.Title = "Sonos Wireless Speakers @ Polymorphism Products";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="text-center col-xs-12">
+            <h3 class="text-capitalize">Sonos Wireless Speakers @@ Polymorphism Products</h3>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var Sonos in Model)
+        {
+            <div class="products text-center col-xs-12 col-sm-6 col-md-3">
+                <div class="thumbnail">
+                    <a href="#">
+                        <img src="@Url.Content("~/Content/img/" + Sonos.ProductImage)" />
+                        <div>
+                            <h4>@Sonos.Manufacturer</h4>
+                            <h4>@Sonos.Model</h4>
+                            <h5>@Sonos.ShortDesc</h5>
+                            <h3 class="text-danger">$@Sonos.Price</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

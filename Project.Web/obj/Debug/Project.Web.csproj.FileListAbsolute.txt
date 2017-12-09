@@ -1,0 +1,110 @@
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\csc.exe
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\csc.exe.config
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\csc.rsp
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\csi.exe
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\csi.rsp
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\vbc.exe
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\vbc.exe.config
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\vbc.rsp
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Project.Web.dll.config
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Project.Web.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Project.Web.pdb
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.Web.Common.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Helpers.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Mvc.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Razor.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\WebActivatorEx.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.Web.Common.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Razor.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Helpers.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\bin\System.Web.Mvc.xml
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\obj\Debug\Project.Web.dll
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\obj\Debug\Project.Web.pdb
+C:\Users\Richard Smith\Desktop\m3-w9-project\Project.Web\obj\Debug\Project.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\csc.exe
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\csi.exe
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Project.Web.dll.config
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Project.Web.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Project.Web.pdb
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.Web.Common.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\WebActivatorEx.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.Web.Common.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\obj\Debug\Project.Web.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\obj\Debug\Project.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\obj\Debug\Project.Web.dll
+C:\Users\User\Desktop\TechElevator\02-Exercises-Completed\richsmith-c-exercises\m3-w9-project\Project.Web\obj\Debug\Project.Web.pdb

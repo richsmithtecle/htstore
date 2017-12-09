@@ -1,0 +1,52 @@
+﻿@using Project.Web.Models
+@model List<Products_TVModel>
+@{
+    ViewBag.Title = "GetAllProducts";
+}
+
+<h2>GetAllProducts</h2>
+
+@*<div>
+    @foreach (var TVs in Model)
+    {
+        <p>@TVs.Manufacturer</p>
+        <p>@TVs.Model</p>
+        <p>@TVs.ShortDesc</p>
+        <p>@TVs.LongDesc</p>
+        <p>@TVs.Price</p>
+        <p>@TVs.CategoryId</p>
+        <img src="@Url.Content("~/Content/img/" + TVs.ProductImage)" />
+    }
+
+</div>*@
+
+<div class="container">
+    <div class="row">
+        @foreach (var TVs in Model)
+        {
+        <div class="products text-center col-xs-12 col-sm-6 col-md-3">
+            <div class="thumbnail">
+                <a href="#">
+                    <img src="@Url.Content("~/Content/img/" + TVs.ProductImage)" />
+                    <div>
+                        <h4>@TVs.Manufacturer</h4>
+                        <h4>@TVs.Model</h4>
+                        <h5>@TVs.ShortDesc</h5>
+                        <h3 class="text-danger">$@TVs.Price</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+        }
+    </div>
+</div>
+
+
+
+@*<img src="@Url.Content("~/Content/img/" + TVs.ProductImage)" />
+<div class="caption">
+    <h4>@TVs.Manufacturer</h4>
+    <h4>@TVs.Model</h4>
+    <h5>@TVs.ShortDesc</h5>
+    <h3 class="text-danger">@TVs.Price</h3>
+</div>*@

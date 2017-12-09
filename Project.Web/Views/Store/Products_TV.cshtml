@@ -1,0 +1,122 @@
+﻿@using Project.Web.Models
+@model List<Products_TVModel>
+@{
+    ViewBag.Title = "Products_TV";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="text-center col-xs-12">
+            <h3 class="text-capitalize">Televisions @@ Polymorphism Products</h3>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var Televisions in Model)
+        {
+            <div class="products text-center col-xs-12 col-sm-6 col-md-3">
+                <div class="thumbnail">
+                    <a href="#">
+                        <img src="@Url.Content("~/Content/img/" + Televisions.ProductImage)" />
+                        <div>
+                            <h4>@Televisions.Manufacturer</h4>
+                            <h4>@Televisions.Model</h4>
+                            <h5>@Televisions.ShortDesc</h5>
+                            <h3 class="text-danger">$@Televisions.Price</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+    @*<div class="row">
+        <div class="text-center col-xs-12">
+            <h3 class="text-capitalize">Televisions @@ Polymorphism Products</h3>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+        <div class="products thumbnail text-center col-xs-12 col-sm-6 col-md-3">
+            <a href="#">
+                <img src="~/Content/img/sony_xbr65x900e_348w.jpg" />
+                <div class="caption">
+                    <h4>Manufacturer</h4>
+                    <h4>Model #</h4>
+                    <h5>Short Description</h5>
+                    <h3 class="text-danger">Price</h3>
+                </div>
+            </a>
+        </div>
+
+
+
+
+    </div>*@
+</div>

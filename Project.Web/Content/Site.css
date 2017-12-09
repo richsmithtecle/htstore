@@ -1,0 +1,89 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.index-hero {
+    background-image: url('img/sony_hd_projector_living_room_family_2_1200x500.jpg');
+    min-height: 550px;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.index-hero h3 {
+    color: white;
+    padding-top: 25%;
+}
+
+.white {
+    color: white;
+}
+
+.category {
+    margin: 10px 0px;
+}
+
+
+.category a{
+    text-decoration: none;
+    color: slategray;
+}
+.category a:hover {
+    color: black;
+}
+.category img {
+    width: 75%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.home-quote {
+    margin: 30px;
+}
+.detail-image img {
+    margin: 20px;
+}
+.product-long-desc {
+    margin-top: 35px;
+}
+
+/*.products {
+    border: 1px solid slategray;
+    border-radius: 5%;
+    margin: 10px;
+
+}
+.products img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 100px;
+}
+
+}*/
+
+.products img {
+    width: 90%;
+    padding: 10px 0px;
+}
+
+.products caption {
+    margin: 0px;
+    padding: 0px;
+}
+.products a {
+    text-decoration: none;
+}
