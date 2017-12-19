@@ -63,3 +63,6 @@ insert into products (manufacturer, model_number, price, category_id, short_desc
 insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA2000ES', '699.99', '2', '90-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA2000ES.jpg');
 insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA3000ES', '999.99', '2', '100-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA3000ES.jpg');
 insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA5000ES', '1499.99', '2', '125-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA5000ES.jpg');
+
+ALTER TABLE products ALTER COLUMN price money;
+ALTER TABLE products ALTER COLUMN price decimal(16,2);
