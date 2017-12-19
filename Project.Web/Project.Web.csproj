@@ -121,6 +121,10 @@
     <Content Include="Content\img\sony_hd_projector_living_room_family_2_1200x500.jpg" />
     <Content Include="Content\img\sony_hd_projector_living_room_family_2_320x350.jpg" />
     <Content Include="Content\img\sony_xbr65x900e_348w.jpg" />
+    <Content Include="Content\img\STRZA1000ES.jpg" />
+    <Content Include="Content\img\STRZA2000ES.jpg" />
+    <Content Include="Content\img\STRZA3000ES.jpg" />
+    <Content Include="Content\img\STRZA5000ES.jpg" />
     <Content Include="Content\img\techcraft_BAY6028BLS_callout.jpg" />
     <Content Include="Content\img\W319-28.jpg" />
     <Content Include="Content\img\W319-38.jpg" />

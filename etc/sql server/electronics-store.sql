@@ -58,3 +58,8 @@ insert into products (manufacturer, model_number, price, category_id, short_desc
 UPDATE products SET image = 'PLAY5.png' WHERE image = 'PLAY5.jpg'
 select * from products where category_id = '2'
 select * from categories
+
+insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA1000ES', '499.99', '2', '80-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA1000ES.jpg');
+insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA2000ES', '699.99', '2', '90-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA2000ES.jpg');
+insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA3000ES', '999.99', '2', '100-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA3000ES.jpg');
+insert into products (manufacturer, model_number, price, category_id, short_description, long_description, image) values ('Sony', 'STRZA5000ES', '1499.99', '2', '125-watt Home Theater Receiver', 'Add Lorum Ipsum text here', 'STRZA5000ES.jpg');
