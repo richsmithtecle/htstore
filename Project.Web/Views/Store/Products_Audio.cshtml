@@ -5,28 +5,60 @@
 }
 <div class="container">
     <div class="row">
-        <div class="text-center col-xs-12">
-            <h3 class="text-capitalize">Home Audio @@ Polymorphism Products</h3>
-            <hr />
+        <div class="col-xs-12 text-center">
+            <h3 class="text-capitalize">Home Audio Products Displayed Using CSS Flexbox</h3>
         </div>
     </div>
-    <div class="row">
-        @foreach (var AudioComps in Model)
-        {
-            <div class="products text-center col-xs-12 col-sm-6 col-md-3">
-                <div class="thumbnail">
-                    <a href="#">
-                        <img src="@Url.Content("~/Content/img/" + AudioComps.ProductImage)" />
-                        <div>
-                            <h4>@AudioComps.Manufacturer</h4>
-                            <h4>@AudioComps.Model</h4>
-                            <h5>@AudioComps.ShortDesc</h5>
-                            <h3 class="text-danger">$@AudioComps.Price</h3>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        }
-    </div>
 </div>
+<div class="audio-container">
+    @foreach (var AudioComps in Model)
+    {
+
+        <div class="flex-card">
+            <ul>
+                <li>
+                    <img src="@Url.Content("~/Content/img/" + AudioComps.ProductImage)" />
+                </li>
+                <li>
+                    <h4>@AudioComps.Manufacturer</h4>
+                </li>
+                <li>
+                    <h4>@AudioComps.Model</h4>
+                </li>
+                <li>
+                    <h5>@AudioComps.ShortDesc</h5>
+                </li>
+                <li>
+                    <h3 class="text-danger">$@AudioComps.Price</h3>
+                </li>
+            </ul>
+        </div>
+    }
+</div>
+@*<div class="container">
+        <div class="row">
+            <div class="text-center col-xs-12">
+                <h3 class="text-capitalize">Home Audio @@ Polymorphism Products</h3>
+                <hr />
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var AudioComps in Model)
+            {
+                <div class="products text-center col-xs-12 col-sm-6 col-md-3">
+                    <div class="thumbnail">
+                        <a href="#">
+                            <img src="@Url.Content("~/Content/img/" + AudioComps.ProductImage)" />
+                            <div>
+                                <h4>@AudioComps.Manufacturer</h4>
+                                <h4>@AudioComps.Model</h4>
+                                <h5>@AudioComps.ShortDesc</h5>
+                                <h3 class="text-danger">$@AudioComps.Price</h3>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>*@
 

@@ -66,3 +66,8 @@ insert into products (manufacturer, model_number, price, category_id, short_desc
 
 ALTER TABLE products ALTER COLUMN price money;
 ALTER TABLE products ALTER COLUMN price decimal(16,2);
+alter table products alter column price decimal;
+
+delete from products;
+select * from products;
+select * from products where id = '25';

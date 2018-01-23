@@ -206,5 +206,12 @@ namespace Project.Web.DAL
             return Sonos;
 
         }
+
+        public Products_TVModel GetProduct(int id)
+        {
+            // dal code to run a single SELECT statement to the 
+            // database, getting one row using the id from above
+            return null;
+        }
     }
 }

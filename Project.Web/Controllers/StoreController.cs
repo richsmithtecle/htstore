@@ -16,9 +16,11 @@ namespace Project.Web.Controllers
         }
 
         // Get Store/DetailView
-        public ActionResult DetailView()
+        public ActionResult DetailView(int id)
         {
-            return View("DetailView");
+            StoreSqlDAL dal = new StoreSqlDAL();
+            var product = dal.GetProduct(id);
+            return View("DetailView", product);
         }
 
         //Get/Store/Products_TV

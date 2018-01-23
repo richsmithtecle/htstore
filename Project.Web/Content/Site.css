@@ -87,3 +87,52 @@ textarea {
 .products a {
     text-decoration: none;
 }
+
+/*Home Page Products Displayed Using Flexbox*/
+.audio-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 40px;
+}
+
+.flex-card {
+    flex: 0 0 calc(25% - 20px);
+    display: flex;
+
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+    position: relative;
+    top: 0;
+    transition: all .1s ease-in;
+}
+    .flex-card:hover {
+        top: -2px;
+        box-shadow: 2px 4px 5px rgba(0,0,0,0.2);
+    }
+
+.flex-card ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+.flex-card li {
+    flex: 1;
+
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+    .flex-card li > * {
+        margin: 10px;
+        padding: 0px;
+        flex: 1 1 100%;
+
+        display: flex;
+        justify-content: center;
+    }
